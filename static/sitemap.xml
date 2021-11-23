@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <urlset xmlns:xsi="http://www.sitemaps.org/schemas/sitemap/0.9"
+ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url>
+    <loc>http://site.com/</loc>
+    <lastmod>2018-06-04</lastmod>
+ </url>
+ <url>
+    <loc>http://site.com/blog</loc>
+    <lastmod>2018-06-04</lastmod>
+ </url>
+ <url>
+    <loc>http://site.com/about</loc>
+    <lastmod>2018-06-04</lastmod>
+ </url>
+ </urlset>
